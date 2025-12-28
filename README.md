@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack project like recreation of ecom web<br><br>👯 I’m looking to collaborate on django and python based projects<br>🤝 I’m looking for help with css and ui ux<br>🌱 I’m currently learning django,python,java,report-lab,dsa<br>💬 Ask me about python , java <br>⚡ Fun fact
+🔭 I’m currently working on full-stack projects, including Invoyger (invoice billing system built with Django) and,Mapify (route-finder web app using Flask & Mapbox)<br><br>
+👯 I’m looking to collaborate on Django and Python-based projects<br>
+🤝 I’m looking for help with CSS and UI/UX design<br>
+🌱 I’m currently learning Django, Python, Java, ReportLab, and DSA<br>
+💬 Ask me about Python, Java, Flask, and Django<br>
+⚡ Fun fact: I enjoy turning ideas into working applications
+
 
 
 ## 🌐 Socials:
