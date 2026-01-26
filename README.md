@@ -1,5 +1,6 @@
 ![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Rohit Jain</h1>
+# 💫 About Me:<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
 🔭 I’m currently working on full-stack projects, including Invoyger (invoice billing system built with Django) and,Mapify (route-finder web app using Flask & Mapbox)<br><br>
 👯 I’m looking to collaborate on Django and Python-based projects<br>
 🤝 I’m looking for help with CSS and UI/UX design<br>
