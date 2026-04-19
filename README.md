@@ -1,12 +1,15 @@
 ![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 <h1 align="center">Hi 👋, I'm Rohit Jain</h1>
 # 💫 About Me:<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
-🔭 I’m currently working on full-stack projects, including Invoyger (invoice billing system built with Django) and,Mapify (route-finder web app using Flask & Mapbox)<br><br>
-👯 I’m looking to collaborate on Django and Python-based projects<br>
-🤝 I’m looking for help with CSS and UI/UX design<br>
-🌱 I’m currently learning Django, Python, Java, ReportLab, and DSA<br>
-💬 Ask me about Python, Java, Flask, and Django<br>
-⚡ Fun fact: I enjoy turning ideas into working applications
+🔭 Engineering: Currently architecting Invoyger, a scalable invoice billing system (Django), and building Mapify , a geospatial route-finder leveraging the Mapbox API (Flask).
+
+👯 **Collaboration:** Actively seeking to contribute to complex Python/Django architectures and API-driven open-source projects.
+
+🌱 **Deep Diving:** Advanced Data Structures & Algorithms (DSA), generating automated enterprise reporting pipelines with ReportLab, and optimizing database queries.
+
+💬 **Let's discuss:** RESTful API design, Python backend optimization, and Java integrations.
+
+⚡ **Fun fact:** I once spent 6 straight hours deploying my first project—including a brutal 4-hour debug session caused entirely by a single case-sensitivity typo. I haven't missed one since.
 
 
 
