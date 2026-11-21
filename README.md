@@ -1,7 +1,7 @@
 ![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 <h1 align="center">Hi 👋, I'm Rohit Jain</h1>
 # 💫 About Me:<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
-🔭 **Engineering:** Currently architecting **S.I.R.E.N.** (patent-filed IoT & AI emergency vehicle preemption system for SIH 2026 using FastAPI, PostGIS, Redis, MQTT & YOLOv8) and **RAIL-PULSE**, a cascade-aware railway delay intelligence platform built with FastAPI, PostGIS, and quantile ML.
+🔭  Engineering: Currently architecting S.I.R.E.N. (patent-filed IoT & AI emergency vehicle preemption system for SIH 2026 using FastAPI, PostGIS, Redis, MQTT & YOLOv8) and **RAIL-PULSE**, a cascade-aware railway delay intelligence platform built with FastAPI, PostGIS, and quantile ML.
 
 💼 **Experience:** Former Software Development Intern at **Paradip Port Authority (Tech Mahindra team)** engineering Java (J2EE), Hibernate/JPA, and Oracle SQL modules for the iPortman Port Operating System; Technical Team Member at **CODEX (SOA University)**.
 
