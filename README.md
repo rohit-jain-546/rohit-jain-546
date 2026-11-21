@@ -1,15 +1,17 @@
 ![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 <h1 align="center">Hi 👋, I'm Rohit Jain</h1>
 # 💫 About Me:<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
-🔭 Engineering: Currently architecting Invoyger, a scalable invoice billing system (Django), and building Mapify , a geospatial route-finder leveraging the Mapbox API (Flask).
+🔭 **Engineering:** Currently architecting **S.I.R.E.N.** (patent-filed IoT & AI emergency vehicle preemption system for SIH 2026 using FastAPI, PostGIS, Redis, MQTT & YOLOv8) and **RAIL-PULSE**, a cascade-aware railway delay intelligence platform built with FastAPI, PostGIS, and quantile ML.
 
-👯 **Collaboration:** Actively seeking to contribute to complex Python/Django architectures and API-driven open-source projects.
+💼 **Experience:** Former Software Development Intern at **Paradip Port Authority (Tech Mahindra team)** engineering Java (J2EE), Hibernate/JPA, and Oracle SQL modules for the iPortman Port Operating System; Technical Team Member at **CODEX (SOA University)**.
 
-🌱 **Deep Diving:** Advanced Data Structures & Algorithms (DSA), generating automated enterprise reporting pipelines with ReportLab, and optimizing database queries.
+👯 **Collaboration:** Open to building distributed backend architectures, geospatial & edge-to-cloud IoT systems, multi-agent AI workflows, and open-source projects (GSSOC & SSOC '26).
 
-💬 **Let's discuss:** RESTful API design, Python backend optimization, and Java integrations.
+🌱 **Deep Diving:** System design, PostgreSQL/PostGIS performance tuning, edge diagnostics (Raspberry Pi 5, eBPF, ONNX), and competitive programming (430+ DSA problems solved | 1616 LeetCode rating).
 
-⚡ **Fun fact:** I once spent 6 straight hours deploying my first project—including a brutal 4-hour debug session caused entirely by a single case-sensitivity typo. I haven't missed one since.
+💬 **Let's discuss:** FastAPI & Django backends, Java (J2EE/Hibernate) enterprise systems, spatial databases, Docker deployments, and hackathon rapid prototyping.
+
+⚡ **Fun fact:** I once spent 6 straight hours deploying my first project—including a brutal 4-hour debug session caused entirely by a single case-sensitivity typo. Haven't missed one since.
 
 
 
